@@ -1,8 +1,8 @@
 import { createRouter, createWebHistory } from 'vue-router'
-import AppIndex from '../components/AppIndex.vue'
-import LoginApp from '../components/LoginApp.vue'
-import Home from '../components/HomeIndex.vue'
-import Tareas from '../components/TareasEquipo.vue'
+import AppIndex from '../views/home/AppIndex.vue'
+import LoginApp from '../views/auth/LoginApp.vue'
+import Home from '../views/home/HomeIndex.vue'
+import Tareas from '../views/services/TareasEquipo.vue'
 
 const routes = [
   {path: '/',component: AppIndex, meta: { title: 'Inicio' }},
