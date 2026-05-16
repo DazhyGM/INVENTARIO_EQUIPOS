@@ -7,7 +7,7 @@
     </header>
     <button @click="goToLogin">Iniciar Sesión</button>
     <footer class="footer">
-      <p>© 2025 Sistema de Gestión - Todos los derechos reservados</p>
+      <p>© 2026 Sistema de Gestión - Todos los derechos reservados</p>
     </footer>
   </div>
 </template>
