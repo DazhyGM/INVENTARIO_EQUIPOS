@@ -3,7 +3,7 @@
     <header class="header">
       <h1>Gestión de Equipos de Cómputo</h1>
       <p>Optimiza y controla la preparación de equipos de forma eficiente.</p>
-      <img src="../../src/assets/img/equipos-animado.gif" alt="Animación equipos" class="landing-gif" />
+      <img src="../../assets/img/equipos-animado.gif" alt="Animación equipos" class="landing-gif" />
     </header>
     <button @click="goToLogin">Iniciar Sesión</button>
     <footer class="footer">
